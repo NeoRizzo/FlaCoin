@@ -8,6 +8,7 @@ Build the flacoin-new-fork
 
 
 
+
 I come on behalf of the FlaCoin Team Communicating to all the US that our currency had to be Forked,
  
 as the Currency Blockchain no longer moved and no new blocks were generated. So we decided to Create a
@@ -17,7 +18,11 @@ Coin Fork and we reduced its Maximum Coin Amount from 40 billion to 21 million a
 Premine also had a reduction before it was 30 billion now and 1 million FLA Premine.
 
 
+
 #NOTE....
+
+
+
 
 
 All Old Holders shall Switch to the new FLA. the burrow will be as follows:
@@ -34,6 +39,9 @@ to change so call me on Discord
 
 
 #New FLA Technical Data
+
+
+
 
 
 
@@ -63,7 +71,12 @@ addnode=52.0.87.179:16499
 addnode=35.161.57.0:16499
 
 
+
+
+
+
 #Social Links e Utilities
+
 
 
 Twitter: https://twitter.com/@DigitalFdcc
@@ -81,6 +94,10 @@ Pool OFICIAL FLA https://pool.flacoin.org
 Site will be reactivated soon: https://flacoin.org
 
 
+
+
+
+
 #Exchanges
 
 
@@ -89,7 +106,11 @@ https://fiberchange.com/market/DOGE-FLA
 https://fiberchange.com/market/FBC-FLA
 
 
+
+
 #Wallets
+
+
 
 
 Windows: https://mega.nz/#!xKZFWK6B!gumgAtcxbWqefbYfaZgw_17WaQSPMo7xFpnTHNFJr6s
