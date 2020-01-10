@@ -1,6 +1,6 @@
 # FlaCoin
 
-Build the flacoin-new-fork
+#Build the flacoin-new-fork
 
 
 
