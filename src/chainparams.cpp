@@ -127,8 +127,13 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("0xb75da2a6bf1b053a72aaa5057cfef5281ccb6e00c47dc7130668ca0571e00e8f"));
 
         // Note that of those with the service bits flag, most only support a subset of possible options
-        //vSeeds.emplace_back();
-
+        vSeeds.emplace_back("3.230.168.235");
+        vSeeds.emplace_back("52.0.87.179");
+        vSeeds.emplace_back("203.220.21.499");
+        vSeeds.emplace_back("2.56.99.22");
+        vSeeds.emplace_back("144.91.104.184");
+        vSeeds.emplace_back("27.3.10.155");
+        
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,35);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,35);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,36);
@@ -146,16 +151,22 @@ public:
 
         checkpointData = {
             {
-                //{  0, uint256S()},
+                {  1800, uint256S("8b9fe6cacb527e2ec1a30b337b1d4bb796d1d6845199c26a325213db829d5d09")},
+                {  3600, uint256S("fb6f138417e94a26cc58c89c13181f091b966fe331d031da7b2b10bd8ea9c329")},
+                {  5800, uint256S("32d9dc2505d833807ae278968df51221ee523a1e127ef002b377835e364f58d0")},
+                {  8599, uint256S("5b9b63f2dde0b4ba1080c7f985780871e4c2acb9cebbdea856f2e9e97530723b")},
+                {  9900, uint256S("b5125251e27864a6acbbf4ece115edbfa06d3a4b4883a929151b9c1aebedab06")},
+                {  15600, uint256S("7a8ed285a6d82033a79275ead3e8867b091857883a1e7d0659f731be0934a63d")},
+                {  18600, uint256S("4222f98693bf002fc3be25a5552c440f05e692f88b3b09eedbb8d0814038fbee")}
             }
         };
 
         chainTxData = ChainTxData{
             // Data as of block e4364791a63fcc67882ed621edf2b65ad98420ab843ad2a96b8866d08de7fb43 (height 0).
-            1578531056, // * UNIX timestamp of last known number of transactions
-            0,  // * total number of transactions between genesis and that timestamp
+            1586317828, // * UNIX timestamp of last known number of transactions
+            24796,  // * total number of transactions between genesis and that timestamp
                     //   (the tx=... number in the SetBestChain debug.log lines)
-            0     // * estimated number of transactions per second after that timestamp
+            0.0     // * estimated number of transactions per second after that timestamp
         };
     }
 };
