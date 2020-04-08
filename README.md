@@ -79,19 +79,19 @@ addnode=35.161.57.0:16499
 
 
 
-Twitter: https://twitter.com/@DigitalFdcc
+Twitter: https://twitter.com/FlaCoinOficial
 
 Discord: https://discord.gg/QBz6tzJ
 
 Telegram: https://t.me/FlaCoin1
 
-Source Code: https://github.com/Flamengo-Digital-CryptoCurrency/FlaCoin
+Source Code: https://github.com/Flacoin-Project/FlaCoin
 
 Explorer: http://explorer.flacoin.org:3001
 
 Pool OFICIAL FLA https://pool.flacoin.org
 
-Site will be reactivated soon: https://flacoin.org
+ Site https://flacoin.org
 
 
 
@@ -113,10 +113,10 @@ https://fiberchange.com/market/FBC-FLA
 
 
 
-Windows: https://mega.nz/#!xKZFWK6B!gumgAtcxbWqefbYfaZgw_17WaQSPMo7xFpnTHNFJr6s
+Windows: https://github.com/Flacoin-Project/FlaCoin/releases
 
 
-Linux: https://mega.nz/#!hPITlaSZ!GkKKTR8MjuE4A-6CKqsPr1F0NVP3_XBdzpildr6bpZ4
+Linux: https://github.com/Flacoin-Project/FlaCoin/releases
 
 
 Thank you for your support!
